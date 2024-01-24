@@ -17,8 +17,8 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 
 ### Links
 
--  [Solution URL](https://www.frontendmentor.io/solutions/expenses-chart-component-chartjs-A_tuMgrSpl)
--  [Live Site URL](https://liam-mcleod.github.io/expenses-chart-component-main/)
+-  [Solution URL](https://www.frontendmentor.io/solutions/social-links-profile-challenge-Tz3X1keROq)
+-  [Live Site URL](https://liam-mcleod.github.io/social-links-profile-main/)
 
 ## Author
 - Frontend Mentor - [@Liam-McLeod](https://www.frontendmentor.io/profile/Liam-McLeod)
